@@ -27,5 +27,7 @@ describe("Blogs", () => {
         });
     });
 
-    
+    describe("/POST blog", () => {
+        
+    })
 });
